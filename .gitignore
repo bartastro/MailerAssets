@@ -220,7 +220,3 @@ install_automailer.run
 # Skip build and dist directories
 build/
 dist/
-
-# Skip mailer-assets: provided via separate public github repository:
-MailerAssets/ 
-CalendarAssets/ 
